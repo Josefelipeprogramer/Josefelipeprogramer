@@ -1,5 +1,5 @@
 ## Hi, :metal:
-### Im José Felipe, I'm starting my career as a DEV, but I already have experiences back end and front end!
+### My name is José Felipe, I'm starting my career as a DEV, but I already have a few experience in back end and front end!
 
 
 
